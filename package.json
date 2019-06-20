@@ -1,0 +1,16 @@
+{
+    "name": "quantzi",
+    "version": "0.0.0",
+    "scripts": {
+        "start": "node app.js",
+        "postinstall": "echo 'meow'"
+    },
+    "dependencies": {
+        "connect-multiparty": "^2.2.0",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "mongodb": "^3.2.6",
+        "nodemailer": "^6.2.1"
+    },
+    "devDependencies": {}
+}
